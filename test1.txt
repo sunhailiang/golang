@@ -1,0 +1,4 @@
+With the development of hardware, concurrent programs become more and more important. The web server handles thousands of requests once. Tablets and mobile apps are rendering user images and performing various computing tasks and web requests at the meeting. Even traditional batch problems -- reading data, computing, writing output -- are now used to hide the I/O's operating latency to make full use of the core of modern computer devices. The performance of the computer is growing linearly each year.
+fuck
+Macroscopic concurrency refers to a number of programs running at the same time within a period of time.
+Concurrency is that there is only one instruction to execute at the same time, but multiple program instructions are quickly rotated, allowing multiple processes to perform simultaneously on the macro, but not at the same time, but in a number of paragraphs, which make multiple programs quickly and alternate.
